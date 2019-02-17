@@ -37,7 +37,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §1.8 | Es ist untersagt andere Spieler ohne ersichtlichen Grund und ohne nachweislichen RP Grund dauerhaft zu belästigen (z.B ständiges Hinterherlaufen/-fahren, dauerhaftes Hupen)-Trolling.
 
-§1.9 | Das absichtliche Erzwingen von Regelbrüchen ist strengstens untersagt und führt zum Bann.
+§1.9 | Das absichtliche Erzwingen von Regelbrüchen ist strengstens untersagt und führt zum Bann.
 
 §1.10 | Fahrzeuge von der Fraktion Sanitäter dürfen nicht gestohlen oder beschädigt werden.Police Department Fahrzeug dürfen ohne ersichtlichen RP Hintergrund nicht gestohlen werden.
 
@@ -140,4 +140,4 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 §8.5| Das "Kuscheln" von mehren Gang wird nicht gerne gesehen und kann bestraft werden.
 
 # Zu der Straßenverkehr Ordnung
-https://github.com/Real-RP/Regelwerk/edit/master/StVO.md
+https://github.com/Real-RP/Regelwerk/master/StVO.md
