@@ -114,7 +114,9 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §6.3| Das ausrauben eines Shops o.ä gilt nicht als Schussankündigung. 
 
-§6.4| Das Töten von ausgeraubten Spielern ist nur dann gestattet, wenn dieser nicht kooper
+§6.4| Das Töten von ausgeraubten Spielern ist nur dann gestattet, wenn dieser nicht kooperiert.
+
+§6.5| Das entführen eines Mediziners ist strengstens verboten solange dieser im Dienst ist. Sollte dieser in den Dienst "flüchten" gilt dies nicht
 
 # §7| Teamspeak
 
@@ -123,8 +125,6 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 §7.2| Gespräche im Support dürfen nicht aufgezeichnet oder Live gesendet werden.
 
 §7.3| Aufnahmen im Teamspeak sind ohne Genehmigung nicht gestattet.
-
-§7.4| Das entführen eines Mediziners ist strengstens verboten solange dieser im Dienst ist. Sollte dieser in den Dienst "flüchten" gilt dies nicht.
 
 
 # §8| Gruppierungen/Gangs/Gangkriege
