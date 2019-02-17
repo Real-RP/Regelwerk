@@ -138,6 +138,5 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 §8.4| Eine Gang ist für sich verantwortlich und löst ihre Probleme selber.
 
 §8.5| Das "Kuscheln" von mehren Gang wird nicht gerne gesehen und kann bestraft werden.
-
 # Zu der Straßenverkehr Ordnung
-https://github.com/Real-RP/Regelwerk/master/StVO.md
+https://github.com/Real-RP/Regelwerk/blob/master/StVO.md
