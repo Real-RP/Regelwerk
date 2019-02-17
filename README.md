@@ -66,7 +66,7 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §3.1 | Das eigene Leben und auch das Leben anderer ist als wertvolles Gut zu betrachen. Dementsprechend sollte alles getan werden, um dieses zu schützen.
 
-§3.2 | Nach dem respawnen im Krankenhaus ist die Stelle des Todes 25 min nicht zu beretten.
+§3.2 | Nach dem respawnen im Krankenhaus ist die Stelle des Todes 25 min nicht zu betreten.
 
 §3.3 | Der "richtige" Tod eines Charakters kann nur durch eine Hinrichtung oder einem Selbstmord eintreten.
 
