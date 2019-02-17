@@ -20,6 +20,8 @@ Fahrtrichtung sind (Rechtsfahrgebot).
 
 # § 3 Geschwindigkeiten
 
+- Die folgenden Gebote gelten nicht während Fahrprüfung!
+
 - Die zulässige Höchstgeschwindigkeit beträgt auch unter günstigsten Umständen
 
 innerhalb geschlossener Ortschaften für alle Kraftfahrzeuge 80 km/h,
