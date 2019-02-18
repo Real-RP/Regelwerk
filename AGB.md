@@ -6,7 +6,7 @@
 und hat höchste Priorität im Falle eines Missverständnisses o.ä.`
      
 # Haftbarkeit
-- Wir sind nicht haftbar im Falle dass Sie oder eine weitere Person auf diesem Server unter 18 Jahre alt ist.
+- Wir sind nicht haftbar im Falle dass Sie oder eine weitere Person auf diesem Server unter 18 Jahre alt sind.
 bereits bei dem Kauf von GTA stimmen Sie zu, GTA mit 18 Jahren erworben zu haben.
 Sollte dies nicht der Fall sein, sind Sie für alle Verstöße oder ihre Eltern aufzukommen.
 
