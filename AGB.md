@@ -40,3 +40,6 @@ Recht diese Werbung abzulehnen, woran sich der werbende halten **muss**.
 # Autoren
 
 - Real RP / Andy
+
+
+©Copyright-@Real-Roleplay_2019.18.02
