@@ -13,9 +13,9 @@ Sollte dies nicht der Fall sein, sind Sie für alle Verstöße oder ihre Eltern 
 - Im Falle eines permanenten oder temporären Bannes kommt Real Roleplay nicht für die "gestohlene" Zeit auf,
 die benötigt wurde um bestimmte ingame- Items oder Gegenstände zu erarbeiten.
 
-- Im Falle das dein GTA nicht mehr funktioniert o.ä. kommt Real Roleplay *nicht* hierfür auf.
+- Im Falle das ihr GTA nicht mehr funktioniert o.ä. kommt Real Roleplay *nicht* hierfür auf.
 Wir verwenden nur getestete resourcen und fügen niemals resourcen ein die Schädlich sind oder 
-Informationen über ihr Konto sammeln. Probleme mit FiveM können im FiveM Support erkläet werden,
+Informationen über ihr Konto sammeln. Probleme mit FiveM können im FiveM Support erklärt werden,
 dafür ist Real Roleplay nicht zuständig.
 
 # Strafen
