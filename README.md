@@ -159,3 +159,10 @@ https://github.com/Real-RP/Regelwerk/blob/master/StVO.md
 
 // Allgemeine Geschäfts Bedingungen //
 https://github.com/Real-RP/Regelwerk/blob/master/AGB.md
+
+
+# Autoren
+
+- Gigaming / Theo Jess
+
+- Real-RP / Andy
