@@ -42,4 +42,4 @@ Recht diese Werbung abzulehnen, woran sich der werbende halten **muss**.
 - Real RP / Andy
 
 
-©Copyright-@Real-Roleplay_2019.18.02
+©Copyright-@Real-Roleplay_2019
