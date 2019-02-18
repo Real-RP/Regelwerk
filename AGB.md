@@ -1,11 +1,9 @@
 # Offizielle AGB des Servers Real Roleplay
 
 # Einleitung
-`Diese AGB gilt zu 100% und kann in keinem Fall umgangen werden.
-
+`Diese AGB gilt zu 100% und kann in keinem Fall umgangen werden.`
 `Sie beinhaltet eure Rechte und Vorschriften zu der Benutzung des FiveM Servers Real Roleplay
-
-`und hat höchste Priorität im Falle eines Missverständnisses o.ä.
+und hat höchste Priorität im Falle eines Missverständnisses o.ä.`
      
 # Haftbarkeit
 - Wir sind nicht haftbar im Falle dass Sie oder eine weitere Person auf diesem Server unter 18 Jahre alt ist.
