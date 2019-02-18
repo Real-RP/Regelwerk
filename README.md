@@ -10,6 +10,10 @@ https://github.com/Real-RP/Regelwerk/blob/master/StVO.md
 - 1.3 Allgemeine Geschäftsbedingungen 
 https://github.com/Real-RP/Regelwerk/blob/master/AGB.md
 
+
+
+
+
 # Real Roleplay Regelwerk
 // Willkommen im Real-Roleplay Regelwerk //
 
