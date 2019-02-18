@@ -1,5 +1,15 @@
 # Regelwerk
 
+**Inhaltsverzeichniss**
+- 1.0 Regelwerk 
+https://github.com/Real-RP/Regelwerk/blob/master/README.md
+
+- 1.2 Straßenverkehrsordnung 
+https://github.com/Real-RP/Regelwerk/blob/master/StVO.md
+
+- 1.3 Allgemeine Geschäftsbedingungen 
+https://github.com/Real-RP/Regelwerk/blob/master/AGB.md
+
 # Real Roleplay Regelwerk
 // Willkommen im Real-Roleplay Regelwerk //
 
@@ -142,3 +152,6 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 # weitere Dateien
 // StVO //
 https://github.com/Real-RP/Regelwerk/blob/master/StVO.md
+
+// Allgemeine Geschäfts Bedingungen //
+https://github.com/Real-RP/Regelwerk/blob/master/AGB.md
