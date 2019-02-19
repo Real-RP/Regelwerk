@@ -21,7 +21,7 @@ https://github.com/Real-RP/Regelwerk/blob/master/AGB.md
 
 # Einleitung:
 
-Jeder User und jedes Teammitglied hat sich an das Regelwerk von Real-Roleplay zu halten. Es gibt keine Ausnahmen für Regelbrüche oder Grauzonen!
+Jeder User und jedes Teammitglied hat sich an das Regelwerk und der AGB von Real-Roleplay zu halten. Es gibt keine Ausnahmen für Regelbrüche oder Grauzonen!
 Mit dem Verbinden auf dem Server erklärt man sich automatisch mit dem Regelwerk einverstanden.
 Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Ermessen der Admins.
 
