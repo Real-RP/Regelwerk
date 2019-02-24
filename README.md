@@ -133,6 +133,8 @@ Jeder der gegen eine Regel verstößt kann sanktioniert werden. Dies liegt im Er
 
 §6.5| Das entführen eines Mediziners ist strengstens verboten solange dieser im Dienst ist. Sollte dieser in den Dienst "flüchten" gilt dies nicht
 
+§6.6| Ein Bank- Raub muss und kann erst ab 4 Cops ausgeraubt werden. Jede Wiedersetzung kann zu einem Bann führen.
+
 # §7| Teamspeak
 
 §7.1| Das Nutzen von externen Programmen und Plugins zur Kommunikation (Skype, Steam Chat, zweites Teamspeak, TS Overlays, TSNotifier etc.) ist verboten und wird mit einem Ausschluss bestraft. Dies gilt als Metagaming.
