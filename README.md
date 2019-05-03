@@ -14,7 +14,7 @@ https://github.com/Real-RP/Regelwerk/blob/master/AGB.md
 
 
 
-# Real Roleplay Regelwerk
+# RaidRP Regelwerk
 // Willkommen im Real-Roleplay Regelwerk //
 
 
