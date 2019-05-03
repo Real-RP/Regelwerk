@@ -1,8 +1,8 @@
-# Offizielle AGB des Servers Real Roleplay vom 18.02.19
+# Offizielle AGB des Servers RaidRP vom 18.02.19
 
 # Einleitung
 `Diese AGB gilt zu 100% und kann in keinem Fall umgangen werden.`
-`Sie beinhaltet eure Rechte und Vorschriften zu der Benutzung des FiveM Servers Real Roleplay
+`Sie beinhaltet eure Rechte und Vorschriften zu der Benutzung des FiveM Servers RaidRP 
 und hat höchste Priorität im Falle eines Missverständnisses o.ä.`
      
 # Haftbarkeit
@@ -13,10 +13,10 @@ Sollte dies nicht der Fall sein, sind Sie für alle Verstöße oder ihre Eltern 
 - Im Falle eines permanenten oder temporären Bannes kommt Real Roleplay nicht für die "gestohlene" Zeit auf,
 die benötigt wurde um bestimmte ingame- Items oder Gegenstände zu erarbeiten.
 
-- Im Falle das ihr GTA nicht mehr funktioniert o.ä. kommt Real Roleplay *nicht* hierfür auf.
+- Im Falle das ihr GTA nicht mehr funktioniert o.ä. kommt RaidRP *nicht* hierfür auf.
 Wir verwenden nur getestete resourcen und fügen niemals resourcen ein die Schädlich sind oder 
 Informationen über ihr Konto sammeln. Probleme mit FiveM können im FiveM Support erklärt werden,
-dafür ist Real Roleplay nicht zuständig.
+dafür ist RaidRP nicht zuständig.
 
 # Strafen
 - Sollte ein allgemeines Vergehen, gegen die Allgemeinen Regeln vorliegen, hält sich das Admin Team vor eine gerechte
@@ -39,7 +39,7 @@ Recht diese Werbung abzulehnen, woran sich der werbende halten **muss**.
 
 # Autoren
 
-- Real RP / Andy
+- RaidRP / Andy
 
 
-©Copyright-@Real-Roleplay_2019
+©Copyright-@Raid-RP_2019
